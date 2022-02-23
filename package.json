@@ -1,0 +1,25 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "GraphQL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thateflondon/graphQL.git"
+  },
+  "keywords": [
+    "API",
+    "GraphQL",
+    "Node",
+    "Express"
+  ],
+  "author": "Jerry FREDERIC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thateflondon/graphQL/issues"
+  },
+  "homepage": "https://github.com/thateflondon/graphQL#readme"
+}
